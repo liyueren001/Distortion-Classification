@@ -1,0 +1,24 @@
+Category,Image Count
+chromatic_aberrations,600
+mean shift,451
+contrast_change,373
+image_denoising,329
+gaussian_blur,259
+change of color saturation,180
+quantization_noise,116
+jpeg2000_transmission_errors,62
+spatially_correlated_noise,60
+non_eccentricity_pattern_noise,57
+jpeg_transmission_errors,33
+sparse_sampling_and_reconstruction,18
+jpeg2000_compression,16
+comfort_noise,15
+color_quantization_with_dithering,14
+additive_noise_in_color_components,9
+additive_gaussian_noise,7
+impulse_noise,6
+multiplicative_gaussian_noise,6
+lossy_compression_of_color_images,6
+local_block-wise_distortions,5
+jpeg_compression,1
+masked_noise,1
